@@ -8,17 +8,17 @@ A simple, still command line, application that will add Discord Rich Presence to
 
 This will likely only occur when you start Typora without having a file open, once you type one character the title will change to "Untitled.md".
 
-![](https://cdn.mutedevs.nl/myuuiii/github/typorarpc/not_editing.png)
+![](https://cdn.myuuiii.moe/projects/typorarpc/not_editing.png)
 
 ### Editing a file:
 
 #### Saved
 
-![](https://cdn.mutedevs.nl/myuuiii/github/typorarpc/edit_saved.png)
+![](https://cdn.myuuiii.moe/projects/typorarpc/edit_saved.png)
 
 #### Unsaved
 
-![](https://cdn.mutedevs.nl/myuuiii/github/typorarpc/edit_unsaved.png)
+![](https://cdn.myuuiii.moe/projects/typorarpc/edit_unsaved.png)
 
 ## Installation
 
